@@ -1,0 +1,23 @@
+{
+  "name": "@icatalyst/js-core",
+  "version": "0.3.0",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ICatalyst-Pte-Ltd/icatalyst-js-core.git"
+  },
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "axios": "^0.27.2",
+    "rxjs": "^7.0.0",
+    "history": "^5.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "@ctrl/tinycolor": "^3.4.1",
+    "crypto-js": "^4.1.1",
+    "class-validator": "^0.13.2",
+    "tslib": "^2.3.0"
+  }
+}
